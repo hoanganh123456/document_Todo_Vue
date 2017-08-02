@@ -28,7 +28,7 @@ Cách chạy thử:
 * Ứng dụng sử dụng express ,pg-promise, cơ sở dữ liệu postgreSQL .
 
 ## Chức năng :
-   * Ứng dụng này có chức năng tương tác với database như thêm,xóa,sửa và hiển thị dữ liệu trong database hiển thị qua font-end.
+   *  Ứng dụng này có chức năng tương tác với database như thêm,xóa,sửa và hiển thị dữ liệu trong database hiển thị qua font-end.
    
 ## Cách thực hiện :
 
